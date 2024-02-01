@@ -38,6 +38,7 @@
 <details>
 <summary>Personal Projects</summary>
 <a href="https://github.com/hendomag1/todo-app-v2"><img src="https://gh-card.dev/repos/hendomag1/todo-app-v2.svg"></a>
+<a href="https://github.com/hendomag1/Translator-Extension"><img src="https://gh-card.dev/repos/hendomag1/Translator-Extension.svg"></a>
 
 </details>
 </div>
