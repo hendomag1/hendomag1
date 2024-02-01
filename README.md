@@ -25,7 +25,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg"></code>
 
-![hendomag1's Stats](https://github-readme-stats.vercel.app/api?username=hendomag1&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 ![hendomag1's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hendomag1&theme=tokyonight&hide_border=true)
 
 ### Some of my projects :)
