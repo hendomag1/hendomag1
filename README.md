@@ -34,12 +34,10 @@
 
 </details>
 
-<details>
-<summary>Personal Projects</summary>
+<h3>Personal Projects</h3>
 <a href="https://github.com/hendomag1/todo-app-v2"><img src="https://gh-card.dev/repos/hendomag1/todo-app-v2.svg"></a>
 <a href="https://github.com/hendomag1/Translator-Extension"><img src="https://gh-card.dev/repos/hendomag1/Translator-Extension.svg"></a>
 <a href="https://github.com/hendomag1/Wikipedia-Searcher"><img src="https://gh-card.dev/repos/hendomag1/Wikipedia-Searcher.svg"></a>
 <a href="https://github.com/hendomag1/Quiz-Game"><img src="https://gh-card.dev/repos/hendomag1/Quiz-Game.svg"></a>
 
-</details>
 </div>
